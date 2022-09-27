@@ -66,11 +66,7 @@ main{
     }
 
     nav{
-        display: flex;
         justify-content:space-between;
-        align-items: center;
-        background-color: #1b1b1b;
-        height: 9vh;
     }
 
     .logo{
@@ -81,8 +77,8 @@ main{
         position: absolute;
         top: 8vh;
         right: 0;
-        width: 50vh;
-        height: 91vh;
+        width: 45vh;
+        height: 92vh;
         background-color: #1b1b1b;
         flex-direction: column;
         align-items: center;
