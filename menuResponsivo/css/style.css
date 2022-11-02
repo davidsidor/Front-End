@@ -57,6 +57,13 @@ main{
     display: none;
 }
 
+/***** SECTION *****/
+
+.secao2{
+    height: 100vh;
+    background-color: #1b1b1b;
+}
+
 /*** RESPONSIVO ***/
 
 @media screen and (max-width: 800px){
